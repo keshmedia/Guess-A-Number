@@ -1,0 +1,24 @@
+C:\Users\ennis\Desktop\OUTPUT\Guess A Number\Guess A Number\bin\Debug\netcoreapp3.0\Guess A Number.exe
+C:\Users\ennis\Desktop\OUTPUT\Guess A Number\Guess A Number\bin\Debug\netcoreapp3.0\Guess A Number.deps.json
+C:\Users\ennis\Desktop\OUTPUT\Guess A Number\Guess A Number\bin\Debug\netcoreapp3.0\Guess A Number.runtimeconfig.json
+C:\Users\ennis\Desktop\OUTPUT\Guess A Number\Guess A Number\bin\Debug\netcoreapp3.0\Guess A Number.runtimeconfig.dev.json
+C:\Users\ennis\Desktop\OUTPUT\Guess A Number\Guess A Number\bin\Debug\netcoreapp3.0\Guess A Number.dll
+C:\Users\ennis\Desktop\OUTPUT\Guess A Number\Guess A Number\bin\Debug\netcoreapp3.0\Guess A Number.pdb
+C:\Users\ennis\Desktop\OUTPUT\Guess A Number\Guess A Number\obj\Debug\netcoreapp3.0\Guess A Number.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\OUTPUT\Guess A Number\Guess A Number\obj\Debug\netcoreapp3.0\Guess A Number.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\OUTPUT\Guess A Number\Guess A Number\obj\Debug\netcoreapp3.0\Guess A Number.AssemblyInfoInputs.cache
+C:\Users\ennis\Desktop\OUTPUT\Guess A Number\Guess A Number\obj\Debug\netcoreapp3.0\Guess A Number.AssemblyInfo.cs
+C:\Users\ennis\Desktop\OUTPUT\Guess A Number\Guess A Number\obj\Debug\netcoreapp3.0\Guess A Number.dll
+C:\Users\ennis\Desktop\OUTPUT\Guess A Number\Guess A Number\obj\Debug\netcoreapp3.0\Guess A Number.pdb
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\Guess A Number\Guess A Number\bin\Debug\netcoreapp3.0\Guess A Number.exe
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\Guess A Number\Guess A Number\bin\Debug\netcoreapp3.0\Guess A Number.deps.json
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\Guess A Number\Guess A Number\bin\Debug\netcoreapp3.0\Guess A Number.runtimeconfig.json
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\Guess A Number\Guess A Number\bin\Debug\netcoreapp3.0\Guess A Number.runtimeconfig.dev.json
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\Guess A Number\Guess A Number\bin\Debug\netcoreapp3.0\Guess A Number.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\Guess A Number\Guess A Number\bin\Debug\netcoreapp3.0\Guess A Number.pdb
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\Guess A Number\Guess A Number\obj\Debug\netcoreapp3.0\Guess A Number.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\Guess A Number\Guess A Number\obj\Debug\netcoreapp3.0\Guess A Number.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\Guess A Number\Guess A Number\obj\Debug\netcoreapp3.0\Guess A Number.AssemblyInfoInputs.cache
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\Guess A Number\Guess A Number\obj\Debug\netcoreapp3.0\Guess A Number.AssemblyInfo.cs
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\Guess A Number\Guess A Number\obj\Debug\netcoreapp3.0\Guess A Number.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\Guess A Number\Guess A Number\obj\Debug\netcoreapp3.0\Guess A Number.pdb
